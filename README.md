@@ -5,6 +5,8 @@
 LINK TO THE TABLEAU DASHBOARD 
 [https://prod-apnortheast-a.online.tableau.com/t/mi6abhid3b2060c5f/views/SalesInsights/Dashboard1?:origin=card_share_link&:embed=n]
 
+![dashboard](dashboard.png)
+
 1. All customer records
 
     `SELECT * FROM customers;`
